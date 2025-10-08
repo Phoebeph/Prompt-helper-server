@@ -1,0 +1,27 @@
+{
+  "name": "prompt_hero_server",
+  "version": "1.0.0",
+  "description": "The server is a MCP that includes prompt generation with most pouplar LLM like DeepSeek, GPT-4/5, Qwen, and etc.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phoebeph/MCP-prompt-helper.git"
+  },
+  "author": "Nianrong Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phoebeph/MCP-prompt-helper/issues"
+  },
+  "homepage": "https://github.com/Phoebeph/MCP-prompt-helper#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "openai": "^6.1.0"
+  }
+}
