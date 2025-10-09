@@ -1,4 +1,4 @@
-## The promot helper server is the backend part for prompt helper client and provide api service for prompt helper MCP.
+## The promot helper server is the backend part for prompt helper client and provides api service for prompt helper MCP.
 
 The prompt helper MCP is accessed at https://prompt-helper.xpack.host/
 Welcome to my website!
